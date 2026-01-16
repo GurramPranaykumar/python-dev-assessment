@@ -18,3 +18,14 @@ It demonstrates Python basics, Git & GitHub workflows, code styling, data struct
 1. Clone the repository:
 ```bash
 git clone https://github.com/GurramPranaykumar/python-dev-assessment.git
+
+## Reflections
+
+### Challenges
+- Navigating merge conflicts and maintaining consistent code style were the toughest parts of this assessment.
+
+### Interesting Parts
+- I found working with APIs and debugging errors especially rewarding, as it gave me practical experience with real-world problems.
+
+### What I Learned
+- This project helped me strengthen my Git workflow, especially branching and merging, while also enhancing my skills in Python debugging and object-oriented programming.
