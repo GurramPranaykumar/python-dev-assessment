@@ -26,7 +26,7 @@ git clone https://github.com/GurramPranaykumar/python-dev-assessment.git
 Managing merge conflicts and ensuring code style consistency were some challenges I faced during this assessment.
 
 ### Interesting Parts
-Working with APIs...
+Interacting with APIs and handling error debugging was particularly engaging and helped me understand real-world scenarios better.
 
 ### Learnings
-Improved Git workflow...
+I improved my Git skills (branching, merging, and resolving conflicts) and deepened my understanding of Python debugging and OOP concepts.
