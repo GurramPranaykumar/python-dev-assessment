@@ -17,7 +17,9 @@ It demonstrates Python basics, Git & GitHub workflows, code styling, data struct
 ## How to Run the Code
 1. Clone the repository:
 ```bash
+
 git clone https://github.com/GurramPranaykumar/python-dev-assessment.git
+
 ```
 ## Requirements
 - Python 3.8 or higher
@@ -27,17 +29,22 @@ git clone https://github.com/GurramPranaykumar/python-dev-assessment.git
 
 ### Install dependencies
 ```bash
+
 pip install requests
+
 ```
 ### Run the code
 ```bash
+
 python <filename>.py
+
 ```
+
 
 ## Reflections
 
 ### Challenges
-Managing merge conflicts and maintaining consistent code style across multiple branches was one of the main challenges during this assessment..
+Managing merge conflicts and maintaining consistent code style across multiple branches was one of the main challenges during this assessment.
 
 ### Interesting Parts
 Interacting with APIs and handling error debugging was particularly engaging and helped me understand real-world scenarios better.
