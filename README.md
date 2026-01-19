@@ -19,6 +19,20 @@ It demonstrates Python basics, Git & GitHub workflows, code styling, data struct
 ```bash
 git clone https://github.com/GurramPranaykumar/python-dev-assessment.git
 ```
+## Requirements
+- Python 3.8 or higher
+
+## Dependencies
+- requests (used for API interaction)
+
+### Install dependencies
+```bash
+pip install requests
+```
+### Run the code
+```bash
+python <filename>.py
+```
 
 ## Reflections
 
