@@ -16,11 +16,9 @@ It demonstrates Python basics, Git & GitHub workflows, code styling, data struct
 
 ## How to Run the Code
 1. Clone the repository:
-```markdown
 ```bash
 git clone https://github.com/GurramPranaykumar/python-dev-assessment.git
 ```
-
 ## Requirements
 - Python 3.8 or higher
 
@@ -28,13 +26,10 @@ git clone https://github.com/GurramPranaykumar/python-dev-assessment.git
 - requests (used for API interaction)
 
 ### Install dependencies
-```markdown
 ```bash
 pip install requests
 ```
-
 ### Run the code
-```markdown
 ```bash
 python <filename>.py
 ```
