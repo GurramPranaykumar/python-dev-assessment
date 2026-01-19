@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains my completed Python developer assessment tasks.
-It demonstrates Python basics, Git & GitHub workflows, code styling, data structures, OOP, debugging, error handling, and API interaction.
+It demonstrates Python basics, Git & GitHub workflows, code styling, data structures, object-oriented programming, debugging, error handling, and API interaction.
 
 ## Project Structure & Tasks Completed
 - [Task 1.1 - Hello Developers!](hello.py)
@@ -43,4 +43,4 @@ Managing merge conflicts and maintaining consistent code style across multiple b
 Interacting with APIs and handling error debugging was particularly engaging and helped me understand real-world scenarios better.
 
 ### Learnings
-I improved my Git skills (branching, merging, and resolving conflicts) and deepened my understanding of Python debugging and OOP concepts.
+I improved my Git skills (branching, merging, and resolving conflicts) and deepened my understanding of Python debugging and object-oriented programming concepts.
