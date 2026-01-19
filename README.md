@@ -18,7 +18,7 @@ It demonstrates Python basics, Git & GitHub workflows, code styling, data struct
 1. Clone the repository:
 ```bash
 git clone https://github.com/GurramPranaykumar/python-dev-assessment.git
-
+```
 
 ## Reflections
 
